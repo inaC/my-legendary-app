@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-legendary-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/my-legendary-app/static/js/main.70ec2e36.chunk.js",
-    "main.js.map": "/my-legendary-app/static/js/main.70ec2e36.chunk.js.map",
+    "main.js": "/my-legendary-app/static/js/main.f94eb480.chunk.js",
+    "main.js.map": "/my-legendary-app/static/js/main.f94eb480.chunk.js.map",
     "runtime-main.js": "/my-legendary-app/static/js/runtime-main.3d634b42.js",
     "runtime-main.js.map": "/my-legendary-app/static/js/runtime-main.3d634b42.js.map",
     "static/js/2.46d8b6b2.chunk.js": "/my-legendary-app/static/js/2.46d8b6b2.chunk.js",
     "static/js/2.46d8b6b2.chunk.js.map": "/my-legendary-app/static/js/2.46d8b6b2.chunk.js.map",
     "index.html": "/my-legendary-app/index.html",
-    "precache-manifest.6a8ee24e67e9f3dea4f2c791657761b4.js": "/my-legendary-app/precache-manifest.6a8ee24e67e9f3dea4f2c791657761b4.js",
+    "precache-manifest.f5e2457ccda5214ecd9d2d29bc2e20af.js": "/my-legendary-app/precache-manifest.f5e2457ccda5214ecd9d2d29bc2e20af.js",
     "service-worker.js": "/my-legendary-app/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/my-legendary-app/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.46d8b6b2.chunk.js.LICENSE.txt": "/my-legendary-app/static/js/2.46d8b6b2.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.3d634b42.js",
     "static/js/2.46d8b6b2.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.70ec2e36.chunk.js"
+    "static/js/main.f94eb480.chunk.js"
   ]
 }
